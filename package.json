@@ -1,0 +1,52 @@
+{
+  "name": "counter-app",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD\r # ReactComponents\r =======\r This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.22",
+    "@fortawesome/free-solid-svg-icons": "^5.10.2",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "bootstrap": "^4.1.1",
+    "fontawesome": "^5.6.3",
+    "gh-pages": "^2.1.1",
+    "joi-browser": "^13.4.0",
+    "lodash": "^4.17.10",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tusharjkhunt/ReactComponents.git"
+  },
+  "author": "Tushar Khunt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tusharjkhunt/ReactComponents/issues"
+  },
+  "homepage": "https://tusharjkhunt.github.io/ReactComponents",
+  "keywords": [],
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
