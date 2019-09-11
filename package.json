@@ -1,5 +1,5 @@
 {
-  "name": "counter-app",
+  "name": "movie-app",
   "version": "1.0.0",
   "description": "<<<<<<< HEAD\r # ReactComponents\r =======\r This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
@@ -28,14 +28,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tusharjkhunt/ReactComponents.git"
+    "url": "git+https://github.com/tusharjkhunt/ReactMovieSite.git"
   },
   "author": "Tushar Khunt",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tusharjkhunt/ReactComponents/issues"
+    "url": "https://github.com/tusharjkhunt/ReactMovieSite/issues"
   },
-  "homepage": "https://tusharjkhunt.github.io/ReactComponents",
+  "homepage": "https://tusharjkhunt.github.io/ReactMovieSite",
   "keywords": [],
   "browserslist": {
     "production": [
